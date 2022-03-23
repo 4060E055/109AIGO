@@ -5,6 +5,6 @@
 * 摘要：以LSTM預測公司下季備貨之安全庫存水位
 * 指導導師：李宗儒
 * 組員：余若榛、陳玥榛、謝緯豪
-* 我負責的部分：LSTM模型開發、資料清理
+* 我負責的部分：LSTM模型開發
 * 實證成果書面：https://drive.google.com/file/d/10wmHuLR80hjUmyVMOLk7YeUJgBONK3rf/view?usp=sharing
 * 實證成果簡報：https://docs.google.com/presentation/d/1RnFrE4LiPD__6ta65yOeCPEzs23xkWD8/edit?usp=sharing&ouid=110552280904641763378&rtpof=true&sd=true
