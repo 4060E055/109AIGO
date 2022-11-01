@@ -8,3 +8,4 @@
 * 我負責的部分：LSTM模型開發(在此只存放我所撰寫的部分)
 * 實證成果書面：https://drive.google.com/file/d/10wmHuLR80hjUmyVMOLk7YeUJgBONK3rf/view?usp=sharing
 * 實證成果簡報：https://docs.google.com/presentation/d/1RnFrE4LiPD__6ta65yOeCPEzs23xkWD8/edit?usp=sharing&ouid=110552280904641763378&rtpof=true&sd=true
+* 附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
